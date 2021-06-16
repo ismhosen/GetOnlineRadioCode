@@ -1,0 +1,1622 @@
+.fixed-body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    position: relative
+}
+
+.wrap {
+    position: relative
+}
+
+.seperator-new {
+    padding-top: 60px!important;
+    padding-bottom: 60px!important
+}
+
+.seperator-new h2 {
+    text-align: left
+}
+
+.seperator .wrap-it-up {
+    overflow: unset
+}
+
+.hero-image.new-hero.ford-hero {
+    background: url(../img/ford-radio-code-bg.jpg) 50% 0;
+    /* background-attachment: fixed; */
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.chrysler-hero {
+    background: url(../img/chrysler-radio-code-bg.jpg) 50% 0;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.vw-hero {
+    background: url(../img/vw-radio-code-bg.jpg) 50% 0;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-hero {
+    background: url(../img/renault-radio-code-bg.jpg) 50% 0;
+    /* background-attachment: fixed; */
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.ford-fiesta-hero {
+    background: url(../img/ford-fiesta-radio-codes-bg.jpg) 50% 0;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.ford-focus-hero {
+    background: url(../img/ford-focus-radio-code-bg.jpg) 50% 0;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.ford-transit-hero {
+    background: url(../img/ford-transit-radio-code-bg.jpg) 50% 0;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.honda-hero {
+    background: url(../img/honda-radio-codes-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.honda-jazz-hero {
+    background: url(../img/honda-jazz-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.honda-crv-hero {
+    background: url(../img/honda-crv-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.ford-mondeo-hero {
+    background: url(../img/ford-mondeo-radio-codes-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.ford-c-max-hero {
+    background: url(../img/ford-c-max-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.ford-ka-hero {
+    background: url(../img/ford-ka-radio-codes-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.nissan-hero {
+    background: url(../img/nissan-radio-codes-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.audi-hero {
+    background: url(../img/audi-radio-codes-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.fiat-hero {
+    background: url(../img/fiat-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.skoda-hero {
+    background: url(../img/skoda-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.jaguar-hero {
+    background: url(../img/jaguar-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.mercedes-hero {
+    background: url(../img/mercedes-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.seat-hero {
+    background: url(../img/seat-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.becker-hero {
+    background: url(../img/becker-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.vauxhall-hero {
+    background: url(../img/vauxhall-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.jeep-hero {
+    background: url(../img/jeep-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.ford-ranger-hero {
+    background: url(../img/ford-ranger-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.dodge-hero {
+    background: url(../img/dodge-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-megane-hero {
+    background: url(../img/renault-megane-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-kangoo-hero {
+    background: url(../img/renault-kangoo-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-trafic-hero {
+    background: url(../img/renault-trafic-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-master-hero {
+    background: url(../img/renault-master-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-twingo-hero {
+    background: url(../img/renualt-twingo-radio-code-bgg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-modus-hero {
+    background: url(../img/renualt-modus-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-scenic-hero {
+    background: url(../img/renault-scenic-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.renault-grand-scenic-hero {
+    background: url(../img/renault-grand-scenic-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero.fiat-punto-hero {
+    background: url(../img/fiat-punto-radio-code-bg.jpg) 50% 0;
+    background-position: top;
+    background-size: cover
+}
+
+.hero-image.new-hero {
+    min-height: 620px;
+    font-size: 16px;
+}
+
+@media(max-width: 960px) {
+    .hero-image.new-hero {
+        height: 100%;
+    }
+    .homepage-reviews {
+        padding-top: 0px!important;
+    }
+    .homepage-reviews .trustpilot-widget {
+        margin-top: 0!important;
+    }
+}
+
+.homepage-reviews .new-customer-reviews {
+    height: unset;
+}
+
+.homepage-reviews .customer-reviews-revs {
+    overflow: unset;
+}
+
+.homepage-reviews .trustpilot-widget {
+    margin-top: -78px;
+}
+
+.hero-image.new-hero h1 {
+    line-height: 1.7
+}
+
+.hero-image.new-hero .turn-off-the-lights-home {
+    background-color: rgba(0, 0, 0, .75)
+}
+
+.hero-image.new-hero .hero-container {
+    padding: 0;
+    padding-top: 2vw;
+}
+
+@media (max-width: 768px) {
+    .hero-image.new-hero .hero-container {
+        padding-top: 3vw;
+    }
+}
+
+.header-banner {
+    display: flex;
+    justify-content: space-between
+}
+
+.product-review__header {
+    align-items: center;
+    display: flex;
+    margin-bottom: 10px
+}
+
+.fa-star {
+    font-size: 18px
+}
+
+.fa-star:not(:last-of-type) {
+    margin-right: 5px
+}
+
+.star-rating {
+    display: flex;
+    margin-right: 10px;
+    align-items: center
+}
+
+.back-stars {
+    display: flex;
+    color: #000;
+    position: relative
+}
+
+.front-stars {
+    display: flex;
+    color: #ffb01a;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.product-page-hero__wrap {
+    display: flex;
+    padding-bottom: 40px;
+}
+
+.product-page-hero__right {
+    position: relative
+}
+
+.product-page-hero__left {
+    color: #fff;
+    padding-right: 20px;
+}
+
+.new-buy-box {
+    color: #4c4f53
+}
+
+.new-buy-box .sellers__bb {
+    display: flex;
+    justify-content: space-between
+}
+
+.new-buy-box .sellers__bb-item {
+    display: flex;
+    align-items: center
+}
+
+.new-buy-box .sellers__bb span {
+    font-size: 12px
+}
+
+.new-buy-box .buy-btn {
+    width: 100%;
+    margin-bottom: 0
+}
+
+.new-buy-box__trustpilot {
+    background-color: #000;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0
+}
+
+.new-buy-box__trustpilot .stars {
+    margin: 0
+}
+
+.customer-help-buttons {
+    display: flex;
+    margin: 30px 0
+}
+
+.customer-help-buttons .btn__std:not(:last-of-type) {
+    margin-right: 20px
+}
+
+.text-section h3 {
+    color: #fff
+}
+
+.text-section__sellers-wrap {
+    display: flex
+}
+
+.text-section__sellers:not(:last-of-type) {
+    margin-right: 20px
+}
+
+.text-section__sellers li {
+    display: flex;
+    align-items: baseline;
+    line-height: 31px
+}
+
+.fa-check {
+    color: #00b67a
+}
+
+ul.select-option {
+    display: flex
+}
+
+.select-option__anchor.active,
+.select-option__anchor.active:hover {
+    box-shadow: 0 0 0 2px #ffb01a
+}
+
+.select-option__item a {
+    background-color: #fff;
+    display: flex;
+    overflow: hidden;
+    border-radius: 4px;
+    flex-direction: column;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .1);
+    color: #4c4f53;
+    transition: all .3s ease
+}
+
+.select-option__item a:hover {
+    box-shadow: 0 2px 6px 2px rgba(0, 0, 0, .2)
+}
+
+.select-option__item:not(:last-of-type) {
+    margin-right: 20px
+}
+
+ul.select-option {
+    margin-bottom: 20px
+}
+
+.select-option__item span {
+    padding: 10px;
+    text-align: center
+}
+
+ul.select-option img {
+    width: 250px
+}
+
+.section-half-n-half {
+    display: flex;
+}
+
+.section-half-n-half>div:first-of-type {
+    padding-right: 70px;
+}
+
+@media(max-width: 960px) {
+    .section-half-n-half>div:first-of-type {
+        padding-right: 0px;
+    }
+}
+
+.prod-delivery-time.new {
+    width: 100%;
+    padding-top: 2px
+}
+
+.prod-delivery-time.new b i {
+    color: #fff
+}
+
+.nissan-radio-thumbs {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.nissan-radio-thumb__item {
+    width: 50%;
+    padding: 10px;
+    cursor: pointer
+}
+
+.nissan-radio-thumb__item img {
+    display: block;
+    width: 100%
+}
+
+.nissan-radio-thumbs~.tp-stripe {
+    margin-top: 10px
+}
+
+@media(min-width: 960px) {
+    .product-page-hero__right {
+        margin-top: -38px;
+        width: 100%;
+        min-width: 380px;
+        max-width: 380px;
+        display: block;
+    }
+}
+
+.code__options {
+    position: relative;
+    display: block
+}
+
+.code__options .input {
+    background-color: #fff
+}
+
+.code__options .option__2 {
+    position: absolute;
+    top: 0;
+    display: none
+}
+
+.code__options .close {
+    position: absolute;
+    right: 0;
+    top: 15px
+}
+
+.buy-box__multiple--options,
+.buy-box__group {
+    display: none;
+}
+
+.code__options select {
+    margin-top: 0
+}
+
+.section-half-n-half h3 {
+    margin-bottom: 20px
+}
+
+.help-questions li a {
+    color: #525252
+}
+
+.help-questions li a:hover {
+    text-decoration: underline
+}
+
+.shop-by-vehicle {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff
+}
+
+.shop-by-vehicle:hover a {
+    color: #ffb01a
+}
+
+.shop-by-vehicle>a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: #525252
+}
+
+.new-sec-step-by-step .steps {
+    padding: 15px 25px;
+    background: #f9f9f9;
+    border: 1px solid #efefef;
+    margin-bottom: 20px
+}
+
+.new-sec-step-by-step p {
+    line-height: 32px
+}
+
+.new-sec-step-by-step img {
+    display: block;
+    width: 100%
+}
+
+.new-sec-step-by-step small {
+    display: block;
+    color: #797979;
+    margin-bottom: 5px
+}
+
+.new-sec-step-by-step .steps p {
+    display: flex;
+    margin: 20px 0
+}
+
+.extra-info .close {
+    position: absolute;
+    top: 20px;
+    right: 20px
+}
+
+.new-sec-step-by-step .steps p:before {
+    content: "";
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background-color: #ffb01a;
+    margin-right: 10px;
+    color: #fff;
+    padding: 0 8px;
+    border-radius: 4px;
+    line-height: 26px
+}
+
+.new-sec-step-by-step {
+    overflow: auto
+}
+
+.new-sec-step-by-step .steps p:nth-child(1):before {
+    content: "1"
+}
+
+.new-sec-step-by-step .steps p:nth-child(2):before {
+    content: "2"
+}
+
+.new-sec-step-by-step .steps p:nth-child(3):before {
+    content: "3"
+}
+
+.new-sec-step-by-step .steps p:nth-child(4):before {
+    content: "4"
+}
+
+.new-sec-step-by-step .steps p:nth-child(5):before {
+    content: "5"
+}
+
+.new-sec-step-by-step .steps p:nth-child(6):before {
+    content: "6"
+}
+
+.video-example-text {
+    text-align: center;
+    margin-bottom: 0;
+    color: #b1b1b1;
+    font-size: 13px
+}
+
+.step-title {
+    font-size: 20px;
+    margin-bottom: 15px;
+    display: block
+}
+
+.utile-links {
+    display: flex;
+    flex-direction: column
+}
+
+.utile-links img {
+    width: 18px;
+    margin-right: 10px
+}
+
+.utile-links .heading-sub {
+    display: flex;
+    align-items: center
+}
+
+.amz-link {
+    display: block;
+    margin-bottom: 10px
+}
+
+.amz-link img {
+    width: 18px;
+    vertical-align: middle;
+    margin-right: 5px
+}
+
+.shop-by-vehicle img {
+    width: 50px;
+    margin-left: 10px
+}
+
+.option-btn-wrap .buy-btn {
+    display: block!important;
+    z-index: 1;
+    top: unset
+}
+
+.card {
+    background: #fff;
+    border-radius: 6px;
+    color: #525252;
+    overflow: hidden;
+    padding: 20px 22px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .1);
+    position: relative
+}
+
+.scroll-y {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+.card-main {
+    padding: 20px 22px 48px;
+    margin-top: -4px;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, .2)
+}
+
+.card-main.--nissan {
+    padding: 20px 22px 58px
+}
+
+.bolt {
+    color: #4c4f53
+}
+
+.tab-content {
+    display: none
+}
+
+.tab-content:first-of-type {
+    display: block
+}
+
+@media only screen and (max-width: 959px) {
+    .radio-info-po .tab-content:first-of-type {
+        display: none
+    }
+}
+
+.title-underline:after {
+    height: 3px;
+    width: 70px;
+    background-color: #ffb01a;
+    display: block;
+    content: "";
+    margin-top: 5px
+}
+
+blockquote {
+    margin: 0;
+    margin-bottom: 20px;
+    font-style: italic;
+    padding-left: 5em;
+    line-height: 1.6;
+    position: relative
+}
+
+blockquote:before {
+    font-family: Arial;
+    content: "\201C";
+    font-size: 8em;
+    position: absolute;
+    left: 10px;
+    line-height: 25px;
+    top: 30px
+}
+
+.msg {
+    font-size: 14px!important
+}
+
+.success {
+    color: #29e229
+}
+
+.error {
+    color: #ffaf1a
+}
+
+.btn__std {
+    padding: 15px;
+    font-size: 14px;
+    display: block;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+    line-height: 1;
+    font-family: Ubuntu, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 1px;
+    transition: all .3s ease
+}
+
+.btn__std--outline {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    cursor: pointer
+}
+
+.btn__std--fill-orange {
+    background-color: #ffb01a;
+    color: #fff;
+    border: 0
+}
+
+.btn__std--fill-orange:hover {
+    background-color: #e79908
+}
+
+.btn__std--white-outline {
+    border: 2px solid #fff;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .4)
+}
+
+.btn__std--white-outline:hover {
+    color: #4c4f53;
+    text-shadow: none
+}
+
+.btn__std--white-outline:before {
+    background: #fff
+}
+
+.btn__std--orange-outline {
+    border: 2px solid #ffb01a;
+    color: #ffb01a;
+    text-transform: uppercase
+}
+
+.btn__std--orange-outline:hover {
+    color: #fff;
+    text-shadow: none
+}
+
+.btn__std--orange-outline:before {
+    background: #ffb01a
+}
+
+.btn__std--outline:before {
+    content: "";
+    cursor: pointer;
+    position: absolute;
+    height: 100%;
+    width: calc(100% + 10px);
+    bottom: -100%;
+    -webkit-transform-origin: center bottom;
+    transform-origin: center bottom;
+    -webkit-transition: .25s ease;
+    transition: .25s ease;
+    left: -5px;
+    z-index: -1
+}
+
+.btn__std--outline:hover:before {
+    bottom: 0
+}
+
+.option-btn-wrap {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    align-items: center
+}
+
+.heading-sub {
+    font-size: 13px;
+    color: #868686
+}
+
+.new-customer-reviews {
+    margin-top: 20px
+}
+
+#ReviewRating {
+    font-size: 88px;
+    display: block;
+    line-height: 1.5;
+    font-weight: 600
+}
+
+#ReviewName {
+    margin-right: 10px
+}
+
+.review-author {
+    margin-bottom: 20px
+}
+
+.customer-reviews-manu {
+    display: flex;
+    flex-direction: column
+}
+
+.customer-reviews-manu h4 {
+    margin-bottom: 0
+}
+
+.reviews__title {
+    margin-top: 30px;
+    font-size: 18px;
+    display: block
+}
+
+.homepage .seller-banner-new__wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+@media(max-width: 960px) {
+    .new-customer-reviews .homepage.customer-reviews-manu {
+        min-width: 100%;
+        max-width: 100%;
+        padding-right: 0;
+    }
+    .homepage .reviews__title {
+        display: none;
+    }
+    .homepage .seller-banner-new__wrap {
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+    }
+    .homepage div[data-popup="tp"] {
+        display: none;
+    }
+    .new-customer-reviews {
+        margin-top: 0;
+    }
+}
+
+.seller-banner-new {
+    margin-top: 20px
+}
+
+.new-customer-reviews {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    height: 590px;
+}
+
+.new-customer-reviews .customer-reviews-manu {
+    width: 100%;
+    padding-right: 50px;
+    min-width: 440px;
+    max-width: 440px;
+    flex-direction: column;
+}
+
+.new-customer-reviews.full-h {
+    grid: 100%/1fr 2fr;
+    -ms-grid: 100%/1fr 2fr
+}
+
+.based-on {
+    margin-bottom: 10px;
+    display: flex
+}
+
+.review-card__item:not(:last-of-type) {
+    margin-bottom: 30px
+}
+
+.bottom-quote-bar {
+    display: flex;
+    justify-content: space-between;
+    color: #888
+}
+
+.review-card__bottom {
+    display: flex;
+    justify-content: space-between;
+    color: #969696;
+    font-size: 13px
+}
+
+.review-card__bottom span:not(:first-of-type) {
+    margin-left: 10px
+}
+
+.review-card__bottom i {
+    border-radius: 50%;
+    margin-left: 5px
+}
+
+.customer-reviews-revs {
+    position: relative;
+    overflow: auto;
+    width: 100%;
+}
+
+.review-wrapper {
+    position: relative
+}
+
+.review-wrapper h3,
+.review-wrapper .h4 {
+    color: #fff;
+}
+
+#WriteReviewSection {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0;
+    transition: .3s ease all
+}
+
+#WriteReviewSection.active {
+    opacity: 1;
+    z-index: 1001
+}
+
+#WriteReview {
+    margin-top: 20px
+}
+
+#review-form {
+    display: flex;
+    flex-direction: column
+}
+
+#review-form select {
+    height: 50px
+}
+
+#review-form .form-half {
+    display: flex;
+    justify-content: space-between
+}
+
+#review-form .form-half>fieldset {
+    flex-basis: 48%
+}
+
+.rating {
+    border: none;
+    float: left;
+    margin-right: auto
+}
+
+.rating>input {
+    display: none
+}
+
+.rating>label:before {
+    margin: 5px;
+    font-size: 1.25em;
+    font-family: FontAwesome;
+    display: inline-block;
+    content: "\f005"
+}
+
+.rating>.half:before {
+    content: "\f089";
+    position: absolute
+}
+
+.rating>label {
+    color: #ddd;
+    font-size: 32px;
+    float: right;
+    margin-bottom: 0
+}
+
+.rating>input:checked~label,
+.rating:not(:checked)>label:hover,
+.rating:not(:checked)>label:hover~label {
+    color: gold
+}
+
+.rating>input:checked+label:hover,
+.rating>input:checked~label:hover,
+.rating>label:hover~input:checked~label,
+.rating>input:checked~label:hover~label {
+    color: #ffed85
+}
+
+.write-review__cont {
+    margin: auto;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%
+}
+
+.write-review__cont>div {
+    width: 100%
+}
+
+.title-review-h4 {
+    color: #fff;
+}
+
+@media(max-width: 768px) {
+    .write-review__cont {
+        padding: 0 20px;
+        width: 100%
+    }
+}
+
+.prod-page-faqs__bundle {
+    display: flex;
+    flex-direction: row
+}
+
+.prod-page-faqs__wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin-top: 30px;
+    width: 33.333%
+}
+
+.prod-page-faqs__wrap.three {
+    flex-direction: row;
+    width: 100%
+}
+
+.prod-page-faqs__wrap.three .prod-page-faqs__item:nth-of-type(2) {
+    margin-right: 30px;
+    margin-left: 30px
+}
+
+.prod-page-faqs__wrap:not(:last-of-type) {
+    margin-right: 30px
+}
+
+.prod-page-faqs__item {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 4px;
+    overflow: hidden;
+    padding: 30px 35px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .1);
+    position: relative
+}
+
+.prod-page-faqs__item:not(:last-of-type) {
+    margin-bottom: 30px
+}
+
+.prod-page-faqs__bundle .faq-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 56px
+}
+
+.prod-page-faqs__bundle .faq-title h3 {
+    margin-right: 15px
+}
+
+.prod-page-faqs__bundle .faq-content {
+    display: none;
+    padding-top: 20px
+}
+
+.close__line-btn {
+    cursor: pointer
+}
+
+div.close__icon {
+    display: flex;
+    width: 18px;
+    height: 18px;
+    position: relative
+}
+
+.close__line {
+    width: 3px;
+    position: absolute;
+    height: 18px;
+    background-color: #ffb01a;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    border-radius: 10px;
+    transition: all .5s ease
+}
+
+.close__line-1 {
+    transform: rotate(-90deg)
+}
+
+.close__line-btn.clicked {
+    background-color: #fff;
+    color: #797979
+}
+
+.close__line-btn.clicked .close__line {
+    background-color: #797979
+}
+
+.close__line-btn.clicked .close__line-2 {
+    transform: rotate(-90deg)
+}
+
+.close__line-x-1 {
+    transform: rotate(-45deg)
+}
+
+.close__line-x-2 {
+    transform: rotate(45deg)
+}
+
+@media only screen and (max-width: 960px) {
+    .header-banner {
+        margin-bottom: 20px;
+        flex-direction: column
+    }
+    .product-page-hero__wrap {
+        display: flex;
+        flex-direction: column-reverse;
+        padding-bottom: 30px;
+    }
+    .product-page-hero__right {}
+    .product-page-hero__left {
+        margin-top: 20px
+    }
+    .customer-help-buttons {
+        flex-wrap: wrap
+    }
+    .customer-help-buttons a {
+        margin-bottom: 15px
+    }
+    .section-half-n-half {
+        display: flex;
+        justify-content: center
+    }
+    .mobile-title--show {
+        display: flex;
+        margin-bottom: 10px;
+        justify-content: space-between
+    }
+    .mobile-title--show a {
+        position: unset
+    }
+}
+
+.mobile-section__btn {
+    display: none;
+    justify-content: space-between!important;
+    align-items: center!important;
+    cursor: pointer;
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: #f7f7f7;
+    transition: all .3s linear;
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, .25);
+    border-radius: 4px
+}
+
+.mobile-section__btn>div {
+    display: flex;
+    align-items: baseline
+}
+
+.sub-btn__text {
+    font-size: 10px;
+    color: #ababab
+}
+
+.sub-btn__wrap {
+    display: flex;
+    flex-direction: column
+}
+
+.mobile-section__btn img {
+    width: 18px
+}
+
+.mobile-section__btn:hover {
+    background-color: #e6e6e6
+}
+
+.mobile-section__btn span {
+    margin-right: 10px
+}
+
+.mobile-section__btn i {
+    color: #ffb01a;
+    margin-right: 10px
+}
+
+.mobile-title--show,
+.mobile-section .close__icon,
+.radio-info-po .tab-content>.close {
+    display: none
+}
+
+.close-icon__smooth {
+    display: block!important
+}
+
+@media only screen and (max-width: 959px) {
+    section.seperator {
+        padding: 20px
+    }
+    .seperator-new .wrap-it-up {
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 70px
+    }
+    .seperator-new .wrap-it-up.pick-radio-pad {
+        padding-bottom: 137px;
+    }
+    .mobile-section {
+        position: fixed;
+        height: 100%;
+        padding: 15px!important;
+        top: 0;
+        z-index: 100;
+        right: 0;
+        transition: all .4s linear;
+        transform: translateX(100%);
+        width: 75%
+    }
+    .mobile-section-scroll {
+        overflow: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    .mobile-section.active {
+        transform: translateX(0)
+    }
+    .mobile-section__btn,
+    .mobile-section .close {
+        display: flex;
+        justify-content: center;
+        align-items: baseline
+    }
+    .mobile-section__btn .close {
+        display: block;
+        position: absolute;
+        top: 10px;
+        right: 10px
+    }
+    ul.select-option img {
+        width: 100%
+    }
+    .mobile-title--show {
+        display: flex
+    }
+    .mobile-title-hide,
+    .hidelt960 {
+        display: none
+    }
+    .select-option {
+        margin: 0 3%;
+    }
+    .shop-by-vehicle {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%
+    }
+    .new-customer-reviews {
+        flex-direction: column;
+    }
+    .new-customer-reviews {
+        height: 100%;
+    }
+    .customer-reviews-manu {
+        margin-bottom: 20px;
+        flex-direction: row;
+        justify-content: space-between
+    }
+    .read-more-bar {
+        display: none
+    }
+    .radio-info-po .tab-content {
+        top: 0;
+        left: 0;
+        position: fixed;
+        z-index: 12;
+        bottom: 0;
+        right: 0;
+        z-index: 1001;
+        padding-bottom: 40px
+    }
+    .radio-info-po .tab-content>.close {
+        display: flex;
+        position: absolute;
+        top: 20px;
+        right: 20px
+    }
+    .radio-info-po .tab-content h4 {
+        margin-bottom: 20px
+    }
+    .radio-info-po>h2,
+    .radio-info-po>.h2 {
+        display: none
+    }
+    .new-sec-step-by-step {
+        overflow: auto;
+        -webkit-overflow-scrolling: touch;
+        height: 100%;
+        padding-bottom: 40px
+    }
+    .option-btn-wrap {
+        padding-top: 20px
+    }
+    .prod-page-faqs__bundle {
+        flex-direction: column
+    }
+    .prod-page-faqs__wrap {
+        width: 100%
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    #SectionBlock_1 {
+        position: relative;
+        padding-bottom: 100px!important
+    }
+    .shop-by-vehicle {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        box-shadow: 0 0 5px 1px rgba(0, 0, 0, .25);
+        transition: all .3s ease
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .customer-reviews-manu>div:first-child {
+        margin-right: 20px
+    }
+    .seller-banner-new:first-of-type {
+        margin-top: 0
+    }
+    .seller-banner-reviews.stars-wrap {
+        width: 190px
+    }
+    .seller-banner-reviews.rv-logo-wrap {
+        width: 130px
+    }
+    .review-card__bottom {
+        flex-direction: column
+    }
+    #ReviewRating {
+        font-size: 58px
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .new-customer-reviews .customer-reviews-manu {
+        flex-direction: column;
+        min-width: unset;
+        max-width: unset;
+    }
+    .seller-banner-new:first-of-type {
+        margin-top: 20px
+    }
+    .mobile-section {
+        width: 100%
+    }
+    .option-btn-wrap {
+        flex-direction: column
+    }
+    .utile-links {
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        margin-bottom: 10px
+    }
+    .option-btn-wrap .buy-btn {
+        width: 100%;
+        right: 0
+    }
+    .text-section__sellers-wrap {
+        flex-direction: column
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .select-option__item a {
+        font-size: 12px
+    }
+    .shop-by-vehicle>a {
+        font-size: 14px
+    }
+}
+
+.three-col {
+    display: flex;
+    margin: 30px 0
+}
+
+.three-col__item {
+    padding: 0 2%;
+    width: 33.333%;
+    display: flex;
+    flex-direction: column
+}
+
+.three-col__item:not(:last-of-type) {
+    border-right: 1px solid #4c4f52
+}
+
+.why-choose__header h3 {
+    color: #fff;
+    margin-left: 10px;
+    margin-bottom: 0;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 20px;
+}
+.why-choose__header.accordion--menu__button {
+    pointer-events: none;
+}
+
+.why-choose__header h3 i {
+    display: none;
+}
+
+.why-choose__header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #4c4f52;
+    padding-bottom: 10px;
+}
+
+.why-choose__header ~ p {
+    font-size: 14px;
+}
+
+@media only screen and (min-width: 960px) {
+    .why-choose__header~div {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 959px) {
+    .why-choose__header h3 i {
+        display: flex;
+        margin-left: 5px;
+    }
+    .why-choose__header.accordion--menu__button {
+        pointer-events: all;
+    }
+}
+
+.why-choose__header img {
+    width: 35px;
+    display: block
+}
+
+.about-text__intro {
+    display: flex
+}
+
+.about-text__intro p {
+    width: 85%
+}
+
+.about-orc {
+    margin-right: 20px;
+    width: 50%
+}
+
+.about-orc img {
+    width: 100%;
+    display: block;
+    border-radius: 5px
+}
+
+.ford-disclaimer {
+    color: #bdbdbd;
+    font-size: 12px;
+    font-style: italic
+}
+
+
+
+@media(max-width: 768px) {
+    .three-col {
+        flex-direction: column
+    }
+    .three-col__item {
+        width: 100%
+    }
+    .three-col__item:not(:last-of-type) {
+        border-right: 0;
+        border-bottom: 1px solid #4c4f52;
+        margin-bottom: 20px
+    }
+    .about-text__intro {
+        flex-direction: column
+    }
+    .about-orc {
+        width: 100%;
+        margin: 0 auto 30px
+    }
+    .about-text__intro p {
+        width: 100%
+    }
+}
+
+@media all and (-ms-high-contrast:none) {
+    .iefix__flex {
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex
+    }
+    *::-ms-backdrop,
+    .iefix__flex {
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: flex
+    }
+}
